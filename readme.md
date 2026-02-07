@@ -1,4 +1,4 @@
-````markdown
+
 # Docker Databases
 
 This repository provides ready-to-use Docker Compose configurations for running popular databases locally using Docker.  
